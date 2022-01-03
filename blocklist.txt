@@ -6,3 +6,4 @@
 127.0.0.1 www.a.shifen.com
 127.0.0.1 www.taobao.com.danuoyi.tbcache.com
 127.0.0.1 eu.broker.miwifi.com
+127.0.0.1 2.us.pool.ntp.org
